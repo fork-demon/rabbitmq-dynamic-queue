@@ -1,0 +1,3 @@
+com\sap\datacloud\Application.class
+com\sap\datacloud\Person.class
+com\sap\datacloud\PersonRepository.class
